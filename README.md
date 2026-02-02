@@ -1,4 +1,4 @@
-# Hi 👋
+# Elo guys
 
 I’m a human.  
 Not a framework. Not a library. Just carbon-based.
